@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -14,20 +14,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94764497078'] //ur owner number
-global.ownername = "Sandaru Nethsara" //ur owner name
-global.ytname = "YT: Sandaru Yt" //ur yt chanel name
-global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
+global.owner = ['94740804536'] //ur owner number
+global.ownername = "𝔻𝕀ℕ𝕌𝕎𝔸" //ur owner name
+global.ytname = "YT: Dinuwa OFC" //ur yt chanel name
+global.socialm = "GitHub: dinuwah" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94764497078" //ur number
-global.premium = ['94764497078'] //ur premium number
-global.botname = 'Xcoco' //ur bot name
-global.themeemoji = "♻️" //ur theme emoji
-global.packname = "Sticker By Xcoco" //ur sticker watermark packname
-global.author = "Xcoco" //ur sticker watermark author
-global.wm = "XCOCO BOT INC" //ur watermark
+global.ownernomer = "94740804536" //ur number
+global.premium = ['94740804536'] //ur premium number
+global.botname = '𝔻𝕀ℕ𝕌𝕎𝔸 USER BOT' //ur bot name
+global.themeemoji = "❇️" //ur theme emoji
+global.packname = "Sticker By 𝔻𝕀ℕ𝕌𝕎𝔸" //ur sticker watermark packname
+global.author = "𝔻𝕀ℕ𝕌𝕎𝔸" //ur sticker watermark author
+global.wm = "𝔻𝕀ℕ𝕌𝕎𝔸 USER BOT INC" //ur watermark
 
 // Other
 global.sessionName = 'session'
