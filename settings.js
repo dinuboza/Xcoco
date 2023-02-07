@@ -30,7 +30,7 @@ global.author = "𝔻𝕀ℕ𝕌𝕎𝔸" //ur sticker watermark author
 global.wm = "𝔻𝕀ℕ𝕌𝕎𝔸 USER BOT INC" //ur watermark
 
 // Other
-global.sessionName = 'session'
+global.sessionName = 'session-10'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 
